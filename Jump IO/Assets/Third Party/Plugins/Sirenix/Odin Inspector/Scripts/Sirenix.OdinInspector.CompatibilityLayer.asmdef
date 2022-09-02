@@ -1,0 +1,16 @@
+{
+    "name": "Sirenix.OdinInspector.CompatibilityLayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ad968d605628d06499b62cdc30f11cf8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cf0b8731a58819446b2d8c538a00340a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5cb713301473e4c43a6618f33071c6dd, type: 3}
+  - {fileID: 21300000, guid: 8327969020c3edd4da70be62ae8e2ddf, type: 3}
+  - {fileID: 21300000, guid: ab5d0d015aac09b46855bae3beca42c7, type: 3}
+  - {fileID: 21300000, guid: f80f35a11c553c240888f60a0d0a1c1f, type: 3}
+  - {fileID: 21300000, guid: 5f962f928606c52448f638945e720910, type: 3}
+  - {fileID: 21300000, guid: f2dab8947412dbe459f8f0b922d1f5d3, type: 3}
+  - {fileID: 21300000, guid: 3a27a86820f38f447a14e176b176300e, type: 3}
+  - {fileID: 21300000, guid: f6f89df818aaf2f4d81ae7078e182826, type: 3}
+  - {fileID: 21300000, guid: b4b88519688a63949965a40438ac5d8e, type: 3}
+  - {fileID: 21300000, guid: 1aae885b3b30a0d40be9e23d9a8a9721, type: 3}
+  - {fileID: 21300000, guid: 9beec49b83f5a6b4f91d64d8fa773ab2, type: 3}
+  - {fileID: 21300000, guid: e6f5492cbfca13d47a57d949aa451c68, type: 3}
+  - {fileID: 21300000, guid: fb33639ef38879342938581fd0126d44, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 2
+  - radial_shine_white
+  - 7
+  - 10
+  - 3
+  - 5
+  - 8
+  - 6
+  - green_button
+  - 4
+  - case_1
+  - 9
+  - 1
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0

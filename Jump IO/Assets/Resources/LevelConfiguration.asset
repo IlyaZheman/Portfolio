@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad94a4b8805b4355b78a4857bbb3d595, type: 3}
+  m_Name: LevelConfiguration
+  m_EditorClassIdentifier: 
+  levelHeight: 100
+  hpAmount: 0a000000060000000300000001000000
+  weightsPresets:
+  - startingHeight: 0
+    weights: 01000000000000000000000000000000
+  - startingHeight: 10
+    weights: 050000000a0000000300000000000000
+  - startingHeight: 20
+    weights: 020000000a0000000a00000000000000
+  - startingHeight: 40
+    weights: 00000000030000000600000006000000
+  - startingHeight: 80
+    weights: 00000000010000000300000008000000
